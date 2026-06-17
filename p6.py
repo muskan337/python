@@ -84,6 +84,6 @@ def List(list, idx):
      print(idx)
      List(list, idx+1)
 
-Name = ["mmuskan", "pragya", "riddu"]
+Name = ["muskan", "pragya", "riddu"]
 
 List(Name, 0)
