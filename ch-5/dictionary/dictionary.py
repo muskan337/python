@@ -11,3 +11,5 @@ marks = {
 print(marks, type(marks))
 
 print(marks["Muskan"])
+
+print(len(marks)) #2
